@@ -49,7 +49,7 @@ Comprehensive star schema integrating fact and dimension tables from Excel and C
 ## 🔗 Live Dashboard
 
 Explore the interactive dashboard here:  
-👉 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM2NzRhOTEtM2QxMC00M2NhLTg4MzctNThkMjY4M2VjNmE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTliOGNiNGEtYzdhZi00Njk2LTg3NWUtM2FkOGU0YjRjMTE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
